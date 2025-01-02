@@ -2,7 +2,7 @@
 
 ## Sobre mi:
 
-- 🔭 Me apasiona la programacion especialmente el low deve
+- 🔭 Me apasiona la informatica en general, soy tecnico en Sistemas Microinformaticos y Redes, y actualmente estoy interesado en la programacion de bajo nivel
 - 🌱 Actualmente estoy estudiando un ciclo de Desarrollo de aplicaciones Multiplataforma y aprendiendo C y Ensamblador por mi cuenta
 - 💬 Siempre estoy interesado por aprender mas y corregir mis errores
 - 📫 Me pueden contactar por este correo: officialbykoan@gmail.com
