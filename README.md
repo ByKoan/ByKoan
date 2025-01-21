@@ -2,9 +2,8 @@
 
 ## Sobre mi:
 
-- 🔭 Me apasiona la informatica en general, soy tecnico en Sistemas Microinformaticos y Redes, y actualmente estoy interesado en la programacion de bajo nivel
+- 🔭Tecnico en Sistemas Microinformaticos y Redes, y actualmente interesado en la programacion de bajo nivel
 - 🌱 Actualmente estoy estudiando un ciclo de Desarrollo de aplicaciones Multiplataforma y aprendiendo C y Ensamblador por mi cuenta
-- 💬 Siempre estoy interesado por aprender mas y corregir mis errores
 - 📫 Me pueden contactar por este correo: officialbykoan@gmail.com
 
 ## 🔧 Tecnologias y herramientas:
@@ -26,5 +25,4 @@
 - Algunos de mis proyectos actuales son:
 - Servidores via protocolo **HTTP** en diferentes lenguajes (Actualmente trabajando en C y Java)
 - Libreria de debug en C
-- Seguir mejorando con versiones mi repositorio de una agenda de contactos en C
 - Seguir investigando sobre lenguajes y metodos de programacion en mi repositorio de **Obsidian**
