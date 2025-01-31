@@ -1,12 +1,12 @@
-# Bienvenido a mi Github, Soy Koan!
+# Welcome to my GitHub, My name is Koan!
 
-## Sobre mi:
+## About myself:
 
-- 🔭Tecnico en Sistemas Microinformaticos y Redes, y actualmente interesado en la programacion de bajo nivel
-- 🌱 Actualmente estoy estudiando un ciclo de Desarrollo de aplicaciones Multiplataforma y aprendiendo C y Ensamblador por mi cuenta
-- 📫 Me pueden contactar por este correo: officialbykoan@gmail.com
+- 🔭 Technician in Microcomputer Systems and Networks, and currently interested in low-level programming
+- 🌱 I am currently studying a cycle of Cross-Platform Application Development and learning C and Assembler by my own.
+- 📫 You can contact me by this email: officialbykoan@gmail.com
 
-## 🔧 Tecnologias y herramientas:
+## 🔧 Technologies and tools:
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
@@ -20,9 +20,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
-## 📚 Proyectos actuales:
+## 📚 Current projects:
 
-- Algunos de mis proyectos actuales son:
-- Servidores via protocolo **HTTP** en diferentes lenguajes (Actualmente trabajando en C y Java)
-- Libreria de debug en C
-- Seguir investigando sobre lenguajes y metodos de programacion en mi repositorio de **Obsidian**
+- In my free time I am learning about technologies, languages ​​and tools, I am also doing projects such as:
+- HTTPS Servers in different languajes (At the moment in C and Java)
+- Debug Library in C
+- Library to make PNG images by pixels in C
+- And some other ideas...
