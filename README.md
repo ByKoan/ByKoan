@@ -19,11 +19,3 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
-
-## 📚 Current projects:
-
-- In my free time I am learning about technologies, languages ​​and tools, I am also doing projects such as:
-- HTTPS Servers in different languajes (At the moment in C and Java)
-- Debug Library in C
-- Library to make PNG images by pixels in C
-- And some other ideas...
